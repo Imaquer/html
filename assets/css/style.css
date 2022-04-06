@@ -1,0 +1,17 @@
+/*header*/
+.logo{
+    float:left;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.nav ul li{
+    display: inline-block;
+    padding: 1.75rem .5rem;
+}
+header {
+    height: 4rem;
+    margin-bottom: 1rem;
+}
